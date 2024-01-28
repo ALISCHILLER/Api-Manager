@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Base Network Core</string>
+
+
+    <string name="weather_icon">Weather icon</string>
+    <string name="feels_like">Feels like: %1$s</string>
+    <string name="city_state_country">City, State, Country</string>
+    <string name="location_not_found">Location is not found, please search with different key</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="temperature">Temperature</string>
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="search">Search</string>
+    <string name="hpa">hpa</string>
+</resources>
